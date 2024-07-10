@@ -1,0 +1,14 @@
+{
+  "name": "workout-app-POC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "repository": "git@github.com:pedrohenrique11/workout-app-POC.git",
+  "author": "Pedro Henrique <pedroballack1167@gmail.com>",
+  "license": "MIT"
+}
